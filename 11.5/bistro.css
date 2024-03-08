@@ -67,3 +67,16 @@ footer {font-size:70%;
 		 clear: both;
 }
 header, main, nav, footer, figure, figcaption { display: block; }
+nav ul ul { position: absolute;
+    background-color: #5564A0;
+    padding: 0;
+    text-align: left;
+    display: none; }
+
+    nav ul ul li { border: 1px solid #00005D;
+        display: block;
+        width: 8em;
+        padding-left: 1em;
+        margin-left: 0; }
+
+        nav li:hover ul { display: block; }
