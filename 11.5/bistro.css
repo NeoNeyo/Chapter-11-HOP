@@ -73,10 +73,10 @@ nav ul ul { position: absolute;
     text-align: left;
     display: none; }
 
-    nav ul ul li { border: 1px solid #00005D;
+nav ul ul li { border: 1px solid #00005D;
         display: block;
         width: 8em;
         padding-left: 1em;
         margin-left: 0; }
 
-        nav li:hover ul { display: block; }
+nav li:hover ul { display: block; }
