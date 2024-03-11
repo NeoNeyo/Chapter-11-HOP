@@ -1,7 +1,9 @@
 body {
     background-image: url(archie\ man.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
-h1 {
+h1, summary {
     color: aliceblue;
     text-shadow: 2px 2px gold;
 }
